@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="이병현 모바일 개발자 배너" width="100%" />
+</p>
+
 <h1 align="center">안녕하세요, 모바일 개발자 이병현입니다 👋</h1>
 
 <p align="center">
@@ -29,14 +33,36 @@ iOS와 Android 앱을 함께 개발하며 다음 영역을 중심으로 제품�
 
 ### iOS
 
-`Swift` · `UIKit` · `SwiftUI` · `Combine` · `Swift Concurrency`<br>
-`MVVM-C` · `Clean Architecture` · `Mapbox` · `StoreKit` · `WidgetKit`
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Combine-6F42C1?style=for-the-badge&logo=apple&logoColor=white" alt="Combine" />
+  <img src="https://img.shields.io/badge/Swift_Concurrency-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Concurrency" />
+  <img src="https://img.shields.io/badge/StoreKit-111111?style=for-the-badge&logo=apple&logoColor=white" alt="StoreKit" />
+  <img src="https://img.shields.io/badge/WidgetKit-34C759?style=for-the-badge&logo=apple&logoColor=white" alt="WidgetKit" />
+</p>
 
 ### Android
 
-`Kotlin` · `XML / Data Binding` · `Jetpack Compose` · `Coroutines`<br>
-`Hilt` · `Retrofit` · `Room` · `Mapbox` · `Google Play Billing`
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Data_Binding-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Data Binding" />
+  <img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Google_Play_Billing-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Billing" />
+</p>
 
 ### 함께 사용하는 기술
 
-`REST API` · `Git` · `GitHub` · `Firebase` · `CI/CD`
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
